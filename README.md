@@ -45,8 +45,8 @@ No se requieren conocimientos previos de programación de computadoras. Sí es n
 * Lawhead, J. (2013). _Learning Geospatial Analysis with Python_. Birmingham, UK: Packt Publishing Ltd.
 * Martelli, A. (2006). _Python in a Nutshell, 2da ed_. Sebastopol, CA: O’Reilly Media Inc.
 * Mitchell, T., & GDAL Developers. (2013). _Geospatial Power Tools: GDAL Raster & Vector Commands_. Chugiak, AK: Locate Press.
-* Severance, C. (2009). Python for Informatics: Exploring Information. Recuperado de [http://www.pythonlearn.com/book.php](http://www.pythonlearn.com/book.php). 
-* Severance, C. (2009). Python for Everybody: Exploring Data in Python 3. Recuperado de [http://www.pythonlearn.com/book.php](http://www.pythonlearn.com/book.php).
+* Severance, C. (2009). _Python for Informatics: Exploring Information_. Recuperado de [http://www.pythonlearn.com/book.php](http://www.pythonlearn.com/book.php). 
+* Severance, C. (2009). _Python for Everybody: Exploring Data in Python 3_. Recuperado de [http://www.pythonlearn.com/book.php](http://www.pythonlearn.com/book.php).
 * Sherman, G. (2014). _The PyQGIS Programmer’s Guide_. Williams Lake, BC, Canada: Locate Press.
 * Westra, E. (2010). _Python Geospatial Development (1st ed.)_. Birmingham, UK: Packt Publishing Ltd.
 * Westra, E. (2013). _Python Geospatial Development (2nd ed.)_. Birmingham, UK: Packt Publishing Ltd.
