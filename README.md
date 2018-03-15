@@ -40,4 +40,4 @@ No se requieren conocimientos previos de programación de computadoras. Sí es n
 
 ## Bibliografa recomendada
 * Bapna, R. (2012). _Participatory Geospatial Development Using Python_. CreateSpace Independent Publishing Platform.
-* Downey, A., Elkner, J. & Meyers, Chis. (2015). _Think Python: How to Think Like a Computer Scientist, 2da ed._  O'Reilly Media Inc. Recuperado de [http://www.greenteapress.com/thinkpython/thinkCSpy/].
+* Downey, A., Elkner, J. & Meyers, Chis. (2015). _Think Python: How to Think Like a Computer Scientist, 2da ed._  O'Reilly Media Inc. Recuperado de [http://www.greenteapress.com/thinkpython/thinkCSpy/](http://www.greenteapress.com/thinkpython/thinkCSpy/).
