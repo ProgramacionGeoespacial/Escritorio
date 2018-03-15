@@ -15,3 +15,5 @@ Aprender los conceptos básicos de la programación de computadoras y su aplicac
 3. Utilizar algunas de las principales bilbiotecas de software libre para el manejo de datos e información geoespaciales (ej. GDAL/OGR, PROJ, GeoPandas).
 4. Extender la funcionalidad de herramientas SIG de escritorio mediante programas en Python.
 
+## Requisitos
+No se requieren conocimientos previos de programación de computadoras. Sí es necesaria capacidad para entender y elaborar expresiones lógicas y matemáticas, tales como fórmulas y funciones, así como también para comprender y construir procedimientos que sigan una secuencia lógica (i.e. algoritmos). También se requiere de conocimiento de conceptos básicos de cartografía (e.j. proyecciones, sistemas de coordenadas) y de manejo de herramientas SIG de escritorio (ej. visualización de capas).
