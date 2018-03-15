@@ -17,3 +17,9 @@ Aprender los conceptos básicos de la programación de computadoras y su aplicac
 
 ## Requisitos
 No se requieren conocimientos previos de programación de computadoras. Sí es necesaria capacidad para entender y elaborar expresiones lógicas y matemáticas, tales como fórmulas y funciones, así como también para comprender y construir procedimientos que sigan una secuencia lógica (i.e. algoritmos). También se requiere de conocimiento de conceptos básicos de cartografía (e.j. proyecciones, sistemas de coordenadas) y de manejo de herramientas SIG de escritorio (ej. visualización de capas).
+
+## Temas
+* Importancia de la programación de computadoras en el manejo de información geoespacial.
+* Instalación del ambiente de desarrollo de Python en una estación de trabajo.
+    * Expresiones matemáticas y precedencia de operadores.
+    * Variables.
