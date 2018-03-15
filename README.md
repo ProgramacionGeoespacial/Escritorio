@@ -5,4 +5,10 @@ Este es un curso introductorio a la programación de aplicaciones para [datos e 
 El curso ha ido desarrollado en el contexto del programa interuniversitario de [Maestría en Sistemas de Información Geográfica y Teledetección](http://www.mpsigte.geo.una.ac.cr/), administrado conjuntamente por las escuelas de geografía de la [Universidad de Costa Rica](https://www.ucr.ac.cr/) y la [Universidad Nacional](http://www.una.ac.cr/).
 
 ## Objetivo general
-Aprender los conceptos básicos de la programación de computadoras y su aplicación al desarrollo de aplicaciones para datos e información geoespaciales.
+Aprender los conceptos básicos de la programación de computadoras y su aplicación al desarrollo de programas para datos e información geoespaciales.
+
+## Objetivos específicos
+1. Aprender los conceptos básicos que son comunes en la mayoría de los lenguajes de programación más empleados en la actualidad (ej. variables, funciones, estructuras de control, programación orientada a objetos).
+2. Desarrollar aplicaciones que manejen datos e información geoespaciales.
+3. Utilizar algunasn de las principales bilbiotecas de software libre para el manejo de datos e información geoespaciales (ej. GDAL/OGR, PROJ, GeoPandas).
+4. Extender la funcionalidad de herramientas SIG de escritorio mediante programas en Python.
