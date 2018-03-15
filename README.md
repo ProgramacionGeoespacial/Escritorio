@@ -12,7 +12,7 @@ Aprender los conceptos básicos de la programación de computadoras y su aplicac
 ### Específicos
 1. Aprender los conceptos básicos que son comunes en la mayoría de los lenguajes de programación más empleados en la actualidad (ej. variables, funciones, estructuras de control, programación orientada a objetos).
 2. Desarrollar aplicaciones que manejen datos e información geoespaciales.
-3. Utilizar algunas de las principales bilbiotecas de software libre para el manejo de datos e información geoespaciales (ej. GDAL/OGR, PROJ, GeoPandas).
+3. Utilizar algunas de las principales bilbiotecas de software libre para el manejo de datos e información geoespaciales (ej. [GDAL/OGR](http://www.gdal.org/), [PROJ](http://proj4.org/), [GeoPandas](http://geopandas.org/).
 4. Extender la funcionalidad de herramientas SIG de escritorio mediante programas en Python.
 
 ## Requisitos
@@ -25,7 +25,15 @@ No se requieren conocimientos previos de programación de computadoras. Sí es n
     * Expresiones matemáticas y precedencia de operadores.
     * Variables.
     * Tipos de datos (numéricos, textuales, _booleanos_ y otros).
-    * Condicionales (if-then-else).
-    * Ciclos (for, while).
+    * Condicionales (_if-then-else_).
+    * Ciclos (_for_, _while_).
     * Funciones.
     * Estructuras de datos (listas, tuplas, diccionarios).
+    * Programación orientada a objetos (clases, propiedades, métodos).
+* Bibliotecas de manejo de datos geoespaciales.
+    * PROJ.
+    * GDAL/OGR.
+    * GeoPandas.
+* Programación en herramientas SIG de escritorio.
+    * Automatización de tareas.
+    * Complementos (_plugins_).
