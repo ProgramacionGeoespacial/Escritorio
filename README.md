@@ -21,5 +21,11 @@ No se requieren conocimientos previos de programación de computadoras. Sí es n
 ## Temas
 * Importancia de la programación de computadoras en el manejo de información geoespacial.
 * Instalación del ambiente de desarrollo de Python en una estación de trabajo.
+* Conceptos básicos de programación de computadoras.
     * Expresiones matemáticas y precedencia de operadores.
     * Variables.
+    * Tipos de datos (numéricos, textuales, _booleanos_ y otros).
+    * Condicionales (if-then-else).
+    * Ciclos (for, while).
+    * Funciones.
+    * Estructuras de datos (listas, tuplas, diccionarios).
