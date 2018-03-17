@@ -9,7 +9,7 @@ Introducción al lenguaje de programación Python
 
 | ![](img/montypython.jpg) |
 |:---:|
-| El circo Volador de Monty Python<br>Fuente: [Internet Movie Database (IMDB)](http://www.imdb.com/title/tt0063929/)|
+| El circo volador de Monty Python<br>Fuente: [Internet Movie Database (IMDB)](http://www.imdb.com/title/tt0063929/)|
 
 Python se caracteriza por ser un lenguaje cuyos programas son fáciles de leer y requieren menos líneas de código que otros lenguajes de programación. Es un [lenguaje interpretado](https://es.wikipedia.org/wiki/Int%C3%A9rprete_(inform%C3%A1tica)) y multiplataforma que puede ejecutarse en los sistemas operativos más populares (ej. Microsoft Windows, macOS, Linux, Android). Ofrece un [sistema de tipos de datos dinámicos](https://es.wikipedia.org/wiki/Tipado_din%C3%A1mico) y [administración automática de memoria](https://es.wikipedia.org/wiki/Gesti%C3%B3n_de_memoria). Además, soporta varios [paradigmas de programación](https://es.wikipedia.org/wiki/Paradigma_de_programaci%C3%B3n), incluyendo [programación orientada a objetos](https://es.wikipedia.org/wiki/Programaci%C3%B3n_orientada_a_objetos),  [programación imperativa](https://es.wikipedia.org/wiki/Programaci%C3%B3n_imperativa), [programación funcional](https://es.wikipedia.org/wiki/Programaci%C3%B3n_funcional) y [programación procedimental](https://es.wikipedia.org/wiki/Programaci%C3%B3n_por_procedimientos).
 
