@@ -1,9 +1,11 @@
 Introducción al lenguaje de programación Python
 ===============================================
 
-[Python](https://www.python.org) es un lenguaje de programación que ha alcanzado [gran popularidad y crecimiento](https://stackoverflow.blog/2017/09/06/incredible-growth-python/) en una amplia variedad de aplicaciones, entre las que pueden mencionarse las [interfaces gráficas](https://wiki.python.org/moin/GuiProgramming), el procesamiento de texto, las [bases de datos](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python), los multimedia, los [marcos de trabajo para desarrollo en la Web](https://wiki.python.org/moin/WebFrameworks) y la [ciencia de datos](https://www.datacamp.com/courses/intro-to-python-for-data-science), por citar algunas. Fue creado por el programador holandés [Guido van Rossum](https://gvanrossum.github.io//), quién concibió el diseño inicial del lenguaje a finales de la década de 1980 y dio a conocer la primera versión en 1991. Van Rossum eligió el nombre Python en honor al grupo de comedia británico [Monty Python](https://es.wikipedia.org/wiki/Monty_Python).
+| ![](img/python-logo.png.jpg) |
+|:---:|
+| Logotipo del lenguaje Python<br>Fuente: [Python.org](http://www.python.org/)|
 
-(Logo de Python)
+[Python](https://www.python.org) es un lenguaje de programación que ha alcanzado [gran popularidad y crecimiento](https://stackoverflow.blog/2017/09/06/incredible-growth-python/) en una amplia variedad de aplicaciones, entre las que pueden mencionarse las [interfaces gráficas](https://wiki.python.org/moin/GuiProgramming), el procesamiento de texto, las [bases de datos](https://www.datacamp.com/courses/introduction-to-relational-databases-in-python), los multimedia, los [marcos de trabajo para desarrollo en la Web](https://wiki.python.org/moin/WebFrameworks) y la [ciencia de datos](https://www.datacamp.com/courses/intro-to-python-for-data-science), por citar algunas. Fue creado por el programador holandés [Guido van Rossum](https://gvanrossum.github.io//), quién concibió el diseño inicial del lenguaje a finales de la década de 1980 y dio a conocer la primera versión en 1991. Van Rossum eligió el nombre Python en honor al grupo de comedia británico [Monty Python](https://es.wikipedia.org/wiki/Monty_Python).
 
 | ![](img/montypython.jpg) |
 |:---:|
