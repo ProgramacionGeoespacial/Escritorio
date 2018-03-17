@@ -5,4 +5,4 @@ Este es un curso introductorio a la programación de aplicaciones de [datos e in
 
 El curso ha ido desarrollado en el contexto del programa interuniversitario de [Maestría en Sistemas de Información Geográfica y Teledetección](http://www.mpsigte.geo.una.ac.cr/), administrado conjuntamente por las escuelas de geografía de la [Universidad de Costa Rica](https://www.ucr.ac.cr/) y la [Universidad Nacional](http://www.una.ac.cr/).
 
-## [Módulo 00](00-Introduccion-Python/). Introducción a Python
+## [Módulo 00: Introducción a Python](00-Introduccion-Python/)
