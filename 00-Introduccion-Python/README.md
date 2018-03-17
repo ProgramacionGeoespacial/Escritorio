@@ -7,6 +7,6 @@ Python fue creado por el programador holandés [Guido van Rossum](https://gvanro
 
 | ![](img/montypython.jpg) |
 |:---:|
-| El "Circo Volador" de Monty Python |
+| El "Circo Volador" de Monty Python\s\sFuente: |
 
 Python se caracteriza por ser un lenguaje cuyos programas son fáciles de leer y emplean menos líneas de código que otros lenguajes de programación.
