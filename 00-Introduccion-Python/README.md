@@ -1,7 +1,7 @@
 Introducción al lenguaje de programación Python
 ===============================================
 
-| ![](img/python-logo.png.jpg) |
+| ![](img/python-logo.png) |
 |:---:|
 | Logotipo del lenguaje Python<br>Fuente: [Python.org](http://www.python.org/)|
 
