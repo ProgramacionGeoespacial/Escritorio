@@ -25,6 +25,6 @@ Para facilitar sus labores, los programadores acostumbran utilizar un [ambiente 
 
 ### IDLE
 
-En el caso de Python, la implementación de referencia del interpretador (la que se descarga de https://www.python.org/) viene acompañada de un ambiente integrado de desarrollo denominado [*IDLE* (_Integrated DeveLopment Environment_ o _Integrated Development and Learning Environment_)](https://docs.python.org/3/library/idle.html). Fue desarrollado también por Guido van Rossum y está completamente escrito en Python, con base en la biblioteca gráfica [Tkinter](https://wiki.python.org/moin/TkInter).
+En el caso de Python, la implementación de referencia del interpretador (la que se descarga de https://www.python.org/) viene acompañada de un ambiente integrado de desarrollo denominado [IDLE (_Integrated DeveLopment Environment_ o _Integrated Development and Learning Environment_)](https://docs.python.org/3/library/idle.html). Fue desarrollado también por Guido van Rossum y está completamente escrito en Python, con base en la biblioteca gráfica [Tkinter](https://wiki.python.org/moin/TkInter).
 
 ### Anaconda
