@@ -19,4 +19,6 @@ Python ha tomado una gran importancia en el área del desarrollo de aplicaciones
 
 ## Instalación de un ambiente de desarrollo para Python
 
-Para facilitar sus labores, los programadores acostumbran emplear un [ambiente integrado de desarrollo (Integrated Development Environment [IDE]](https://en.wikipedia.org/wiki/Integrated_development_environment), el cual es un 
+Para facilitar sus labores, los programadores acostumbran utilizar un [ambiente integrado de desarrollo (_Integrated Development Environment_ [IDE]](https://en.wikipedia.org/wiki/Integrated_development_environment), el cual es una aplicación informática que típicamente consiste de un [editor de código fuente](https://es.wikipedia.org/wiki/Editor_de_c%C3%B3digo_fuente), [herramientas para la construcción de archivos ejecutables](https://en.wikipedia.org/wiki/Build_automation) y un [depurador (_debugger_)](https://es.wikipedia.org/wiki/Depurador).
+
+
